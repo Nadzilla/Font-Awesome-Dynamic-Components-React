@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## what is this?
+## What is this?
 
 This is a project for React.js that allows easy use of Font Awesome special effects. It is a library that combines multiple features of Font Awesome into one. 
 
