@@ -13,6 +13,6 @@ To use, download all files into one directory and run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Examples of use are in the App.js code. 
+### Examples of use are in the App.js file. 
 
 
